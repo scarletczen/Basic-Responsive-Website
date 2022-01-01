@@ -6,7 +6,12 @@
 }
 
 a {
+    color: whitesmoke;
     text-decoration: none;
+}
+
+a:hover {
+    color: #fc036b
 }
 
 header {
